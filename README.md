@@ -53,6 +53,3 @@ A central hub with navigation buttons for quick access to specific metrics: Busi
 
 ## 📂 Project Files
 * **[Sales_Analytics.pbix](Sales_Analytics.pbix)** - Download and open in Power BI Desktop to explore the report.
-
-## 📂 Project Files
-* **[Sales_Analytics.pbix](Sales_Analytics.pbix)** - Download and open in Power BI Desktop to explore the report.
